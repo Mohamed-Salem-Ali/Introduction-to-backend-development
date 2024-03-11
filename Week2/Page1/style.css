@@ -1,0 +1,17 @@
+h1 {
+    color:aqua
+}
+p {
+    color: blue;
+}
+#number2 {
+    color: aquamarine;
+}
+
+#latest { 
+    background-color: purple; 
+  }
+
+  .navigation { 
+    margin: 2px;
+  }
